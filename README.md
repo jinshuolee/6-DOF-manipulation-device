@@ -12,5 +12,6 @@
 ![image alt](https://github.com/jinshuolee/6-DOF-manipulation-device/blob/main/User_interface.png?raw=true)
 
 # 影片連結
-https://www.youtube.com/watch?v=NEGK4G0Klj8
+* https://www.youtube.com/watch?v=NEGK4G0Klj8
+
 ![image alt](https://github.com/jinshuolee/6-DOF-manipulation-device/blob/main/Demo.png?raw=true)
